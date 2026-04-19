@@ -3,8 +3,8 @@ https://ronaldpradilla.github.io/Api-restcountries/
 
 ## dataset
 
-| Campo | Descripción | Ejemplo |
-|-------|-------------|---------|
+| Campo | Descripción |
+|-------|-------------|
 | 🚩 Bandera | Imagen del país |
 | Nombre | Nombre común del país |
 | Código | Código ISO de 2 letras |
